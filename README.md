@@ -1,111 +1,116 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AVIRAJ%20INGLE&fontSize=50&fontColor=a78bfa&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Python%20Craftsman%20%7C%20Builder%20of%20Things&descAlignY=58&descColor=818cf8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0d0d0d&height=220&section=header&text=AVIRAJ%20INGLE&fontSize=52&fontColor=f5c518&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Dark%20Knight%20of%20Code&descAlignY=58&descColor=d4af37&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
 ```
-              ╭──────────────────────────────────────╮
-              │  "In a world full of frameworks,      │
-              │   be the one who understands what      │
-              │   runs beneath them."                  │
-              │                              — avii    │
-              ╰──────────────────────────────────────╯
+        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        █                                           █
+        █   "It's not who I am underneath,          █
+        █    but what I BUILD that defines me."      █
+        █                                           █
+        █                          — The Dev Knight █
+        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 </div>
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d0f1a&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&ring_color=7c3aed" />
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0a0a0a&title_color=f5c518&icon_color=d4af37&text_color=c9c9c9&ring_color=f5c518&theme=dark" />
 
-### 〔 OPERATOR PROFILE 〕
+### 〔 THE BATCAVE FILES 〕
 
 ```yaml
-name       : Aviraj Ingle
+alias      : The Dev Knight
+real_name  : Aviraj Ingle
 handle     : avii2312
+base       : Maharashtra, India  🦇
 class      : Backend Engineer
-origin     : Maharashtra, India  🇮🇳
-speciality : Python · Django · Flask · FastAPI
 
-status     : ONLINE ██████████ 100%
-mission    : Build systems that survive the real world
-creed      : Ship it. Harden it. Scale it.
+primary_weapon  : Python
+secondary_arms  : Django · Flask · FastAPI
+utility_belt    : PostgreSQL · MySQL · TensorFlow
+
+threat_level    : ████████████  MAXIMUM
+current_status  : BUILDING IN THE DARK
+oath            : "I will make bad code fear me."
 ```
 
 <br clear="right"/>
 
 ---
 
-### ⚡ ABILITY TREE
+### 🦇 UTILITY BELT — TECH ARSENAL
 
 <div align="center">
 
-| Tier | Domain | Arsenal |
+| Rank | Domain | Weapons |
 |:----:|--------|---------|
-| `S` | **Backend Core** | Python · Django · Flask · FastAPI · Django REST |
-| `A` | **Databases** | PostgreSQL · MySQL · MariaDB · SQLite |
-| `A` | **ML / Data** | TensorFlow · Keras · scikit-learn · Pandas · NumPy |
-| `B` | **Frontend** | HTML5 · TailwindCSS · Bootstrap · JavaScript |
-| `B` | **Deploy & Infra** | Vercel · Render · Netlify · Git · GitHub |
-| `C` | **Integrations** | Twilio · REST APIs · PHP |
+| `██ S` | **Primary Arms** | Python · Django · Flask · FastAPI · Django REST |
+| `██ A` | **Batcave DB** | PostgreSQL · MySQL · MariaDB · SQLite |
+| `██ A` | **Wayne Tech AI** | TensorFlow · Keras · scikit-learn · Pandas · NumPy |
+| `██ B` | **Disguise Layer** | HTML5 · TailwindCSS · Bootstrap · JavaScript |
+| `██ B` | **Bat-Deploy** | Vercel · Render · Netlify · Git · GitHub |
+| `██ C` | **Field Gadgets** | Twilio · REST APIs · PHP |
 
 </div>
 
 ---
 
-### 🛸 ACTIVE PROJECTS
+### 🌃 GOTHAM PROJECTS — ACTIVE OPERATIONS
 
-> Systems currently running in production or deep development
+> *Every great story begins in the dark.*
 
 <table>
 <tr>
 <td width="50%">
 
-**🧠 [Project Alpha]**
+**🦇 Operation: [Your Project Name]**
 ```
-Stack  : Python + Flask + MySQL
-Status : ██████████░░ 85%
-Type   : Web Application
+Stack    : Python + Django + PostgreSQL
+Status   : ██████████░░  85% — FIELD READY
+Class    : Web Application
 ```
-> Short description of what this does and why it matters. Replace with your real project.
+> Replace with your real project description. What problem does it solve? Who uses it?
 
 </td>
 <td width="50%">
 
-**⚡ [Project Beta]**
+**🌃 Operation: [Your Project Name]**
 ```
-Stack  : Django REST + PostgreSQL
-Status : ████████░░░░ 70%
-Type   : REST API
+Stack    : Flask + MySQL + REST API
+Status   : ████████░░░░  70% — IN PROGRESS
+Class    : API Service
 ```
-> Short description of what this does and why it matters. Replace with your real project.
+> Replace with your real project description. What problem does it solve? Who uses it?
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🌐 [Project Gamma]**
+**⚡ Operation: [Your Project Name]**
 ```
-Stack  : FastAPI + TensorFlow
-Status : █████░░░░░░░ 45%
-Type   : ML Pipeline
+Stack    : FastAPI + TensorFlow
+Status   : █████░░░░░░░  45% — PROTOTYPE
+Class    : ML Pipeline
 ```
-> Short description of what this does and why it matters. Replace with your real project.
+> Replace with your real project description. What problem does it solve? Who uses it?
 
 </td>
 <td width="50%">
 
-**🔧 [Project Delta]**
+**🔦 Operation: [Your Project Name]**
 ```
-Stack  : Python + Pandas + NumPy
-Status : ████████████ 100%
-Type   : Data Tool
+Stack    : Python + Pandas + NumPy
+Status   : ████████████  100% — DEPLOYED
+Class    : Data Tool
 ```
-> Short description of what this does and why it matters. Replace with your real project.
+> Replace with your real project description. What problem does it solve? Who uses it?
 
 </td>
 </tr>
@@ -113,49 +118,57 @@ Type   : Data Tool
 
 ---
 
-### 📡 COMBAT STATS
+### 📊 SURVEILLANCE INTEL — GITHUB STATS
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=avii2312&theme=tokyonight&hide_border=true&background=0d0f1a&stroke=7c3aed&ring=a78bfa&fire=818cf8&currStreakNum=c9d1d9&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=818cf8&dates=6b7280" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=avii2312&theme=dark&hide_border=true&background=0a0a0a&stroke=f5c518&ring=d4af37&fire=f5c518&currStreakNum=f5c518&currStreakLabel=d4af37&sideNums=c9c9c9&sideLabels=888888&dates=555555" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f5c518&text_color=c9c9c9&langs_count=8" width="49%" />
 
 </div>
 
 <div align="center">
 
-![activity](https://github-contributor-stats.vercel.app/api?username=avii2312&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+![activity](https://github-contributor-stats.vercel.app/api?username=avii2312&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
 ---
 
-### 🔭 SKILL POWER LEVELS
+### ⚔️ COMBAT POWER LEVELS
 
 ```
-Python        ████████████████████░░  90%   [ ELITE ]
-Django        ███████████████████░░░  85%   [ ELITE ]
-Flask         ████████████████████░░  90%   [ ELITE ]
-FastAPI       ████████████████░░░░░░  75%   [ ADV   ]
-PostgreSQL    ████████████████░░░░░░  75%   [ ADV   ]
-TensorFlow    █████████████░░░░░░░░░  60%   [ MID   ]
-scikit-learn  ██████████████░░░░░░░░  65%   [ MID   ]
-JavaScript    ████████████░░░░░░░░░░  55%   [ MID   ]
+  Python        ████████████████████░░  90%  ◈ DARK KNIGHT
+  Django        ███████████████████░░░  85%  ◈ DARK KNIGHT
+  Flask         ████████████████████░░  90%  ◈ DARK KNIGHT
+  FastAPI       ████████████████░░░░░░  75%  ◈ VIGILANTE
+  PostgreSQL    ████████████████░░░░░░  75%  ◈ VIGILANTE
+  TensorFlow    █████████████░░░░░░░░░  60%  ◈ CADET
+  scikit-learn  ██████████████░░░░░░░░  65%  ◈ CADET
+  JavaScript    ████████████░░░░░░░░░░  55%  ◈ CADET
 ```
 
 ---
 
-### 📻 OPEN CHANNEL
+### 📡 OPEN CHANNEL — THE BAT-SIGNAL
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0f1a)](https://linkedin.com/in/aviraj-ingle-23av23)
-[![Email](https://img.shields.io/badge/Gmail-TRANSMIT-818cf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a)](mailto:avraj.ingle@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0f1a)](https://github.com/avii2312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-f5c518?style=for-the-badge&logo=linkedin&logoColor=f5c518&labelColor=0a0a0a)](https://linkedin.com/in/aviraj-ingle-23av23)
+[![Email](https://img.shields.io/badge/Gmail-TRANSMIT-f5c518?style=for-the-badge&logo=gmail&logoColor=f5c518&labelColor=0a0a0a)](mailto:avraj.ingle@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-f5c518?style=for-the-badge&logo=github&logoColor=f5c518&labelColor=0a0a0a)](https://github.com/avii2312)
 
 <br/>
 
-![visitors](https://visitcount.itsvg.in/api?id=avii2312&icon=5&color=9)
+![visitors](https://visitcount.itsvg.in/api?id=avii2312&icon=5&color=3)
+
+<br/>
+
+```
+  ██████████████████████████████████████████████████
+  █  "The night is darkest just before the deploy." █
+  ██████████████████████████████████████████████████
+```
 
 </div>
 
@@ -163,6 +176,6 @@ JavaScript    ████████████░░░░░░░░░░
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:000000&height=120&section=footer&text=🦇&fontSize=30)
 
 </div>

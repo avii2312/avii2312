@@ -1,168 +1,168 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  AVIRAJ INGLE · GitHub Profile README                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AVIRAJ%20INGLE&fontSize=50&fontColor=a78bfa&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Python%20Craftsman%20%7C%20Builder%20of%20Things&descAlignY=58&descColor=818cf8&animation=fadeIn)
+
+</div>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ░█████╗░██╗░░░██╗██╗██████╗░░█████╗░     ██╗              ║
-║    ██╔══██╗██║░░░██║██║██╔══██╗██╔══██╗    ██╔╝              ║
-║    ███████║╚██╗░██╔╝██║██████╔╝███████║   ██╔╝               ║
-║    ██╔══██║░╚████╔╝░██║██╔══██╗██╔══██║  ██╔╝                ║
-║    ██║░░██║░░╚██╔╝░░██║██║░░██║██║░░██║ ██╔╝                 ║
-║    ╚═╝░░╚═╝░░░╚═╝░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝                  ║
-║                                                               ║
-║         [ Backend Engineer · Python Craftsman · Builder ]     ║
-╚═══════════════════════════════════════════════════════════════╝
+              ╭──────────────────────────────────────╮
+              │  "In a world full of frameworks,      │
+              │   be the one who understands what      │
+              │   runs beneath them."                  │
+              │                              — avii    │
+              ╰──────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d0f1a&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&ring_color=7c3aed" />
 
-```python
-# aviraj.py
+### 〔 OPERATOR PROFILE 〕
 
-class Aviraj:
-    
-    name     = "Aviraj Ingle"
-    alias    = "avii2312"
-    role     = "Backend Engineer"
-    location = "Maharashtra, India 🇮🇳"
-    
-    stack = {
-        "primary"   : ["Python", "Django", "Flask", "FastAPI"],
-        "databases" : ["MySQL", "PostgreSQL", "SQLite"],
-        "frontend"  : ["HTML5", "TailwindCSS", "Bootstrap"],
-        "ml"        : ["TensorFlow", "scikit-learn", "Keras"],
-        "devops"    : ["Git", "GitHub", "Render", "Vercel"],
-    }
-    
-    currently = [
-        "⚡ Crafting REST APIs that don't break at 3am",
-        "🧠 Exploring ML pipelines with Python",
-        "🛠️  Building things that matter",
-    ]
-    
-    def say_hi(self):
-        print("Thanks for visiting. Let's build something cool.")
+```yaml
+name       : Aviraj Ingle
+handle     : avii2312
+class      : Backend Engineer
+origin     : Maharashtra, India  🇮🇳
+speciality : Python · Django · Flask · FastAPI
 
-me = Aviraj()
-me.say_hi()
+status     : ONLINE ██████████ 100%
+mission    : Build systems that survive the real world
+creed      : Ship it. Harden it. Scale it.
 ```
 
 <br clear="right"/>
 
 ---
 
-## `$ whoami`
-
-> Backend-first developer obsessed with clean APIs, efficient databases, and code that **actually runs in production**. I don't just write code — I engineer systems.
-
-- 🐍 Python is my native tongue; Django & Flask are my dialects
-- ⚙️  I believe in **simplicity first, performance always**
-- 🌱 Currently deep-diving into **FastAPI + async patterns** and **ML model deployment**
-- 💬 Ask me about **REST APIs, ORM optimization, or why PostgreSQL > everything else**
-
----
-
-## `$ ls ./tech-stack`
+### ⚡ ABILITY TREE
 
 <div align="center">
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405e)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=003545)
-
-### 🧠 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-### 🌐 Frontend & Deploy
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+| Tier | Domain | Arsenal |
+|:----:|--------|---------|
+| `S` | **Backend Core** | Python · Django · Flask · FastAPI · Django REST |
+| `A` | **Databases** | PostgreSQL · MySQL · MariaDB · SQLite |
+| `A` | **ML / Data** | TensorFlow · Keras · scikit-learn · Pandas · NumPy |
+| `B` | **Frontend** | HTML5 · TailwindCSS · Bootstrap · JavaScript |
+| `B` | **Deploy & Infra** | Vercel · Render · Netlify · Git · GitHub |
+| `C` | **Integrations** | Twilio · REST APIs · PHP |
 
 </div>
 
 ---
 
-## `$ git log --oneline --stat`
+### 🛸 ACTIVE PROJECTS
+
+> Systems currently running in production or deep development
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 [Project Alpha]**
+```
+Stack  : Python + Flask + MySQL
+Status : ██████████░░ 85%
+Type   : Web Application
+```
+> Short description of what this does and why it matters. Replace with your real project.
+
+</td>
+<td width="50%">
+
+**⚡ [Project Beta]**
+```
+Stack  : Django REST + PostgreSQL
+Status : ████████░░░░ 70%
+Type   : REST API
+```
+> Short description of what this does and why it matters. Replace with your real project.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌐 [Project Gamma]**
+```
+Stack  : FastAPI + TensorFlow
+Status : █████░░░░░░░ 45%
+Type   : ML Pipeline
+```
+> Short description of what this does and why it matters. Replace with your real project.
+
+</td>
+<td width="50%">
+
+**🔧 [Project Delta]**
+```
+Stack  : Python + Pandas + NumPy
+Status : ████████████ 100%
+Type   : Data Tool
+```
+> Short description of what this does and why it matters. Replace with your real project.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📡 COMBAT STATS
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=avii2312&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=avii2312&theme=tokyonight&hide_border=true&background=0d0f1a&stroke=7c3aed&ring=a78bfa&fire=818cf8&currStreakNum=c9d1d9&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=818cf8&dates=6b7280" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
+
+</div>
+
+<div align="center">
+
+![activity](https://github-contributor-stats.vercel.app/api?username=avii2312&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+### 🔭 SKILL POWER LEVELS
+
+```
+Python        ████████████████████░░  90%   [ ELITE ]
+Django        ███████████████████░░░  85%   [ ELITE ]
+Flask         ████████████████████░░  90%   [ ELITE ]
+FastAPI       ████████████████░░░░░░  75%   [ ADV   ]
+PostgreSQL    ████████████████░░░░░░  75%   [ ADV   ]
+TensorFlow    █████████████░░░░░░░░░  60%   [ MID   ]
+scikit-learn  ██████████████░░░░░░░░  65%   [ MID   ]
+JavaScript    ████████████░░░░░░░░░░  55%   [ MID   ]
+```
+
+---
+
+### 📻 OPEN CHANNEL
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0f1a)](https://linkedin.com/in/aviraj-ingle-23av23)
+[![Email](https://img.shields.io/badge/Gmail-TRANSMIT-818cf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a)](mailto:avraj.ingle@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0f1a)](https://github.com/avii2312)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## `$ top --sort=contributions`
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=avii2312&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-## `$ cat /dev/philosophy`
-
-```bash
-#!/bin/bash
-
-# Rules I code by:
-echo "1. Write code for humans first, machines second."
-echo "2. A good API is invisible — it just works."
-echo "3. The best database query is the one you never have to rewrite."
-echo "4. Ship it. Then make it better."
-echo "5. Read the docs. All of them."
-```
-
----
-
-## `$ ping aviraj`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/aviraj-ingle-23av23)
-[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:avraj.ingle@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avii2312)
-
-![](https://visitcount.itsvg.in/api?id=avii2312&icon=5&color=6)
-
-```
-PING aviraj.dev (203.0.113.42): 56 data bytes
-64 bytes: seq=0 ttl=64 time=0.001ms  ← always online
-```
+![visitors](https://visitcount.itsvg.in/api?id=avii2312&icon=5&color=9)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ Built with Python, caffeine, and an unhealthy obsession with clean code.</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
+
 </div>

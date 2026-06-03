@@ -29,7 +29,7 @@ alias      : The Dev Knight
 real_name  : Aviraj Ingle
 handle     : avii2312
 base       : Maharashtra, India  🦇
-class      : Backend Engineer
+class      : Backend Engineer · Founder @ VISANET
 
 primary_weapon  : Python
 secondary_arms  : Django · Flask · FastAPI
@@ -69,48 +69,75 @@ oath            : "I will make bad code fear me."
 <tr>
 <td width="50%">
 
-**🦇 Operation: [Your Project Name]**
+**🧠 Operation: IMPIFY — Web**
 ```
-Stack    : Python + Django + PostgreSQL
-Status   : ██████████░░  85% — FIELD READY
-Class    : Web Application
+Stack    : React + Flask + MySQL
+Status   : ████████████  100% — DEPLOYED
+Class    : AI-Powered Study Web App
 ```
-> Replace with your real project description. What problem does it solve? Who uses it?
+> AI study assistant that helps students learn smarter — generates notes, quizzes, and summaries. Built for the next generation of learners across India.
 
 </td>
 <td width="50%">
 
-**🌃 Operation: [Your Project Name]**
+**📱 Operation: IMPIFY — Mobile**
 ```
-Stack    : Flask + MySQL + REST API
-Status   : ████████░░░░  70% — IN PROGRESS
-Class    : API Service
+Stack    : Android (Java) + Flask API
+Status   : ████████████  100% — LIVE ON PLAY
+Class    : Android Application
 ```
-> Replace with your real project description. What problem does it solve? Who uses it?
+> Published on Google Play Store. AI-powered mobile study companion with smart content generation, available to students on the go.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**⚡ Operation: [Your Project Name]**
+**🤝 Operation: SEEKHO**
 ```
-Stack    : FastAPI + TensorFlow
-Status   : █████░░░░░░░  45% — PROTOTYPE
-Class    : ML Pipeline
+Stack    : Python + Flask + MySQL
+Status   : ██████████░░  85% — ACTIVE DEV
+Class    : P2P Skill Exchange Platform
 ```
-> Replace with your real project description. What problem does it solve? Who uses it?
+> Peer-to-peer skill exchange platform — teach what you know, learn what you don't. Hyperlocal community-first, built for Bharat.
 
 </td>
 <td width="50%">
 
-**🔦 Operation: [Your Project Name]**
+**🏘️ Operation: KAAMWALA**
 ```
-Stack    : Python + Pandas + NumPy
-Status   : ████████████  100% — DEPLOYED
-Class    : Data Tool
+Stack    : Flutter + PHP + MySQL + Razorpay
+Status   : ███████░░░░░  60% — IN PROGRESS
+Class    : Hyperlocal Gig Marketplace
 ```
-> Replace with your real project description. What problem does it solve? Who uses it?
+> Connect local workers with local work. Aadhaar KYC · Razorpay payments · multilingual support. Built for India's informal workforce.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+**🏛️ Operation: E-KOTWAL**
+```
+Stack    : React + Node.js + PostgreSQL
+Status   : ████████░░░░  70% — MODERNIZING
+Class    : Maharashtra Govt Village Records
+```
+> Digital portal for Maharashtra village records (Kotwal data). Role-based access — SuperAdmin · Admin · Operator — with full accountability and zero-deletion policy.
+
+</td>
+<td width="50%">
+
+**🏥 Operation: KORDE CLINIC**
+```
+Stack    : PHP + MySQL + WhatsApp API
+Status   : ████████████  100% — LIVE
+Class    : Clinic Management Software
+```
+> Full OPD management system for Dr. Ganesh Korde, Nashik. Patient records, appointments, WhatsApp Business API integration for automated reminders.
 
 </td>
 </tr>
@@ -122,14 +149,18 @@ Class    : Data Tool
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=avii2312&theme=dark&hide_border=true&background=0a0a0a&stroke=f5c518&ring=d4af37&fire=f5c518&currStreakNum=f5c518&currStreakLabel=d4af37&sideNums=c9c9c9&sideLabels=888888&dates=555555" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f5c518&text_color=c9c9c9&langs_count=8" width="49%" />
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=f5c518&icon_color=d4af37&text_color=c9c9c9" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f5c518&text_color=c9c9c9&langs_count=8" />
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
-
-![activity](https://github-contributor-stats.vercel.app/api?username=avii2312&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avii2312&theme=dark&hide_border=true&background=0a0a0a&stroke=f5c518&ring=d4af37&fire=f5c518&currStreakNum=f5c518&currStreakLabel=d4af37&sideNums=c9c9c9&sideLabels=888888&dates=555555" />
 
 </div>
 
@@ -157,10 +188,11 @@ Class    : Data Tool
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-f5c518?style=for-the-badge&logo=linkedin&logoColor=f5c518&labelColor=0a0a0a)](https://linkedin.com/in/aviraj-ingle-23av23)
 [![Email](https://img.shields.io/badge/Gmail-TRANSMIT-f5c518?style=for-the-badge&logo=gmail&logoColor=f5c518&labelColor=0a0a0a)](mailto:avraj.ingle@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-f5c518?style=for-the-badge&logo=github&logoColor=f5c518&labelColor=0a0a0a)](https://github.com/avii2312)
+[![VISANET](https://img.shields.io/badge/VISANET-SOFTWARE-f5c518?style=for-the-badge&logo=googlechrome&logoColor=f5c518&labelColor=0a0a0a)](https://visanet.in)
 
 <br/>
 
-![visitors](https://visitcount.itsvg.in/api?id=avii2312&icon=5&color=3)
+![Profile Views](https://komarev.com/ghpvc/?username=avii2312&color=f5c518&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 

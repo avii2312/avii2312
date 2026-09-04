@@ -1,213 +1,86 @@
-<div align="center">
+# Aviraj
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0d0d0d&height=220&section=header&text=AVIRAJ%20INGLE&fontSize=52&fontColor=f5c518&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Dark%20Knight%20of%20Code&descAlignY=58&descColor=d4af37&animation=fadeIn)
+Product engineer at VISANET Software, IT lecturer at Government Polytechnic Washim. Nine products in the field, most of them serving people the big platforms skip.
 
-</div>
+```python
+from visanet.field import Engineer, Lecturer
+# Washim, Maharashtra — Tier 2 / Tier 3 India
 
-<div align="center">
+aviraj = Engineer(
+    city     = "Washim",
+    products = 9,
+    serves   = "clinics, panchayats and shops in small-town Maharashtra",
+)
 
+aviraj.ship()
+# Deployed. 9 products live across Vidarbha.
 ```
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        █                                           █
-        █   "It's not who I am underneath,          █
-        █    but what I BUILD that defines me."      █
-        █                                           █
-        █                          — The Dev Knight █
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
 
-</div>
+[`products.json`](#productsjson) · [`work.md`](#workmd) · [`stack.txt`](#stacktxt) · [`contact.txt`](#contacttxt)
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0a0a0a&title_color=f5c518&icon_color=d4af37&text_color=c9c9c9&ring_color=f5c518&theme=dark" />
+## products.json
 
-### 〔 THE BATCAVE FILES 〕
+> `// 9 products — Live, Beta, and one I worked on`
 
-```yaml
-alias      : The Dev Knight
-real_name  : Aviraj Ingle
-handle     : avii2312
-base       : Maharashtra, India  🦇
-class      : Backend Engineer · Founder @ VISANET
-
-primary_weapon  : Python
-secondary_arms  : Django · Flask · FastAPI
-utility_belt    : PostgreSQL · MySQL · TensorFlow
-
-threat_level    : ████████████  MAXIMUM
-current_status  : BUILDING IN THE DARK
-oath            : "I will make bad code fear me."
-```
-
-<br clear="right"/>
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **[GainsGuru](https://gainsguru.visasystem.in)** | Installable fitness coach that works on a weak connection. Built around Indian meals and real schedules; installs from the browser and works offline. | PWA · JavaScript · Flask · MySQL | Live |
+| **[SkillSikho](https://skillsikho.visasystem.in)** | Skill-swap community where the price of a new skill is a skill you already have. Also the teaching project for VISANET's intern batch. | Flask · MySQL · Jinja | Live |
+| **[OPD Management System](https://opd.visasystem.in)** | Intake, patient history, prescriptions and billing for clinics that were running on paper registers. Sized for a two-person front desk, not a hospital EMR. | Flask · MySQL · ABDM / FHIR | Live |
+| **Sahyaseva Advisor** | Licence records and renewals for the Akola district administration. English/Marathi toggle sits on the sign-in screen, not buried in settings. | Flask · MySQL · Marathi UI | Live · internal |
+| **GPW Alumni** | Directory, activity feed and contribution channel for Government Polytechnic Washim, teaching since 1982. The users are down the corridor when something breaks. | PHP · MySQL · cPanel | Live · college |
+| **Reshma Mart** | Kirana storefront for daily essentials, with search built for how people actually name what they want. Runs on hosting the shop owner can afford monthly. | PHP · MySQL · Payments | Live · client |
+| **AiCards** | Schools upload student photos and data; the system verifies it and exports print-ready ID cards. Separate admin and school portals. | Flask · MySQL · Print pipeline | Beta · invite |
+| **Impify** | Turns uploaded study material into flashcards and practice questions, for students preparing without coaching. Installs to the home screen. | Flutter · Android · LLM API | Beta |
+| **e-Kotwal** | Digitises gram panchayat records so villagers stop making repeat trips to the office. Marathi-first, because an English-only form is a wall. | Flask · MySQL · Marathi UI | Worked on |
 
 ---
 
-### 🦇 UTILITY BELT — TECH ARSENAL
+## work.md
 
-<div align="center">
+> `// three lanes, one week`
 
-| Rank | Domain | Weapons |
-|:----:|--------|---------|
-| `██ S` | **Primary Arms** | Python · Django · Flask · FastAPI · Django REST |
-| `██ A` | **Batcave DB** | PostgreSQL · MySQL · MariaDB · SQLite |
-| `██ A` | **Wayne Tech AI** | TensorFlow · Keras · scikit-learn · Pandas · NumPy |
-| `██ B` | **Disguise Layer** | HTML5 · TailwindCSS · Bootstrap · JavaScript |
-| `██ B` | **Bat-Deploy** | Vercel · Render · Netlify · Git · GitHub |
-| `██ C` | **Field Gadgets** | Twilio · REST APIs · PHP |
+**`product()`** — VISANET Software Pvt. Ltd. I take products from scoping and SRS through to a live deployment: Flask and MySQL on the backend, React or Flutter on the front, on shared hosting clients can actually afford.
 
-</div>
+**`teach()`** — Government Polytechnic Washim. Lecturer in Information Technology, teaching Fundamentals of ICT on the MSBTE K Scheme to IT, Civil and Automobile students. I also run VISANET's summer industrial training batch.
+
+**`civic()`** — Marathi-language government portals, gram panchayat record systems and grievance pipelines for rural and semi-urban Maharashtra, where the English-only default excludes most of the people being served.
 
 ---
 
-### 🌃 GOTHAM PROJECTS — ACTIVE OPERATIONS
+## stack.txt
 
-> *Every great story begins in the dark.*
+> `// chosen for what runs reliably on modest hosting`
 
-<table>
-<tr>
-<td width="50%">
+![Python](https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=7FD88F)
+![Flask](https://img.shields.io/badge/Flask-0B0E14?style=flat-square&logo=flask&logoColor=7FD88F)
+![MySQL](https://img.shields.io/badge/MySQL-0B0E14?style=flat-square&logo=mysql&logoColor=63C8E8)
+![PHP](https://img.shields.io/badge/PHP-0B0E14?style=flat-square&logo=php&logoColor=C08BF5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0E14?style=flat-square&logo=javascript&logoColor=E8B24A)
+![React](https://img.shields.io/badge/React-0B0E14?style=flat-square&logo=react&logoColor=63C8E8)
+![Flutter](https://img.shields.io/badge/Flutter-0B0E14?style=flat-square&logo=flutter&logoColor=63C8E8)
+![Git](https://img.shields.io/badge/Git-0B0E14?style=flat-square&logo=git&logoColor=F07178)
+![cPanel](https://img.shields.io/badge/cPanel-0B0E14?style=flat-square&logo=cpanel&logoColor=E8B24A)
 
-**🧠 Operation: IMPIFY — Web**
-```
-Stack    : React + Flask + MySQL
-Status   : ████████████  100% — DEPLOYED
-Class    : AI-Powered Study Web App
-```
-> AI study assistant that helps students learn smarter — generates notes, quizzes, and summaries. Built for the next generation of learners across India.
-
-</td>
-<td width="50%">
-
-**📱 Operation: IMPIFY — Mobile**
-```
-Stack    : Android (Java) + Flask API
-Status   : ████████████  100% — LIVE ON PLAY
-Class    : Android Application
-```
-> Published on Google Play Store. AI-powered mobile study companion with smart content generation, available to students on the go.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤝 Operation: SEEKHO**
-```
-Stack    : Python + Flask + MySQL
-Status   : ██████████░░  85% — ACTIVE DEV
-Class    : P2P Skill Exchange Platform
-```
-> Peer-to-peer skill exchange platform — teach what you know, learn what you don't. Hyperlocal community-first, built for Bharat.
-
-</td>
-<td width="50%">
-
-**🏘️ Operation: KAAMWALA**
-```
-Stack    : Flutter + PHP + MySQL + Razorpay
-Status   : ███████░░░░░  60% — IN PROGRESS
-Class    : Hyperlocal Gig Marketplace
-```
-> Connect local workers with local work. Aadhaar KYC · Razorpay payments · multilingual support. Built for India's informal workforce.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-**🏛️ Operation: E-KOTWAL**
-```
-Stack    : React + Node.js + PostgreSQL
-Status   : ████████░░░░  70% — MODERNIZING
-Class    : Maharashtra Govt Village Records
-```
-> Digital portal for Maharashtra village records (Kotwal data). Role-based access — SuperAdmin · Admin · Operator — with full accountability and zero-deletion policy.
-
-</td>
-<td width="50%">
-
-**🏥 Operation: KORDE CLINIC**
-```
-Stack    : PHP + MySQL + WhatsApp API
-Status   : ████████████  100% — LIVE
-Class    : Clinic Management Software
-```
-> Full OPD management system for Dr. Ganesh Korde, Nashik. Patient records, appointments, WhatsApp Business API integration for automated reminders.
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 SURVEILLANCE INTEL — GITHUB STATS
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=avii2312&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=f5c518&icon_color=d4af37&text_color=c9c9c9" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii2312&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f5c518&text_color=c9c9c9&langs_count=8" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avii2312&theme=dark&hide_border=true&background=0a0a0a&stroke=f5c518&ring=d4af37&fire=f5c518&currStreakNum=f5c518&currStreakLabel=d4af37&sideNums=c9c9c9&sideLabels=888888&dates=555555" />
-
-</div>
-
----
-
-### ⚔️ COMBAT POWER LEVELS
-
-```
-  Python        ████████████████████░░  90%  ◈ DARK KNIGHT
-  Django        ███████████████████░░░  85%  ◈ DARK KNIGHT
-  Flask         ████████████████████░░  90%  ◈ DARK KNIGHT
-  FastAPI       ████████████████░░░░░░  75%  ◈ VIGILANTE
-  PostgreSQL    ████████████████░░░░░░  75%  ◈ VIGILANTE
-  TensorFlow    █████████████░░░░░░░░░  60%  ◈ CADET
-  scikit-learn  ██████████████░░░░░░░░  65%  ◈ CADET
-  JavaScript    ████████████░░░░░░░░░░  55%  ◈ CADET
+```text
+B.E. Computer Science & Engineering   SGBAU,  2024
+Diploma in Information Technology     MSBTE,  2021
+Based in                              Washim, Maharashtra
 ```
 
 ---
 
-### 📡 OPEN CHANNEL — THE BAT-SIGNAL
+## contact.txt
 
-<div align="center">
+> `// open to product work, consulting, and guest sessions`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-f5c518?style=for-the-badge&logo=linkedin&logoColor=f5c518&labelColor=0a0a0a)](https://linkedin.com/in/aviraj-ingle-23av23)
-[![Email](https://img.shields.io/badge/Gmail-TRANSMIT-f5c518?style=for-the-badge&logo=gmail&logoColor=f5c518&labelColor=0a0a0a)](mailto:avraj.ingle@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-f5c518?style=for-the-badge&logo=github&logoColor=f5c518&labelColor=0a0a0a)](https://github.com/avii2312)
-[![VISANET](https://img.shields.io/badge/VISANET-SOFTWARE-f5c518?style=for-the-badge&logo=googlechrome&logoColor=f5c518&labelColor=0a0a0a)](https://visanet.in)
+Open to product work, consulting for organisations serving Tier 2 and Tier 3 India, and guest sessions for engineering and polytechnic students.
 
-<br/>
+- **Email** — avraj.ingle@gmail.com
+- **Portfolio** — [aviraj.netlify.app](https://aviraj.netlify.app)
 
-![Profile Views](https://komarev.com/ghpvc/?username=avii2312&color=f5c518&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
+```text
+Ln 1, Col 1     UTF-8     LF                            Washim, IN
 ```
-  ██████████████████████████████████████████████████
-  █  "The night is darkest just before the deploy." █
-  ██████████████████████████████████████████████████
-```
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:000000&height=120&section=footer&text=🦇&fontSize=30)
-
-</div>
